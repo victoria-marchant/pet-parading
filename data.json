@@ -1,0 +1,64 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Stevie",
+      "relationshipToMe": "My partner's sister's dog",
+      "description" : "She is a good, good girl and likes eating pebbles.",
+      "gender": "She is a ",
+      "type" : "Golden labrador dog",
+      "image": "/images/puppy1.jpg",
+      "breed": "Golden Labrador"
+    },
+    {
+      "id": 2,
+      "name": "Mome, Momington the 1st, Mons, All of the names",
+      "relationshipToMe": "My cat",
+      "description" : "The slinkiest!",
+      "gender": "She is a ",
+      "type" : "Cornish Rex cat",
+      "image": "/images/Mome.jpg",
+      "breed": "Labrador"
+    },
+    {
+      "id": 3,
+      "name": "Uzari",
+      "relationshipToMe": "My cat",
+      "description" : "The fluffiest!!",
+      "gender": "She is a ",
+      "type" : "Birman cat",
+      "image": "/images/Uzi.jpg",
+      "breed": "Rottweiler"
+    },
+    {
+      "id": 4,
+      "name": "Sophia",
+      "relationshipToMe": "My sister's dog",
+      "description" : "Has the cutest snore!!",
+      "gender": "She is a ",
+      "type" : "Pug dog",
+      "image": "/images/Sophia.jpg",
+      "breed": "Labrador"
+    },
+    {
+      "id": 5,
+      "name": "Lucio",
+      "relationshipToMe": "My Axolotl",
+      "description" : "Is the coolest anphibian",
+      "gender": "He is an ",
+      "type" : "Axolotl",
+      "image": "/images/Axo.jpg",
+      "breed": "Pug"
+    },
+    {
+      "id": 6,
+      "name": "Ceddy and Bloss",
+      "relationshipToMe": "My best friend's buns",
+      "description" : "The softest, sassiest bunnies out!!",
+      "gender": "They are ",
+      "type" : "Bunnies",
+      "image": "/images/Buns.jpeg",
+      "breed": "Labrador"
+    }
+  ]
+}

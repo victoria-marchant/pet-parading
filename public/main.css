@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Special+Elite&display=swap');
+
+body {
+  background-color: #6e6f72;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Special Elite', cursive;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.videocontainer {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.pet-list {
+  align-items: center;
+  display: flex;
+  list-style-type: none;
+  flex-direction: column;
+  
+}
+
+.pet-gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+  }
+
+.pet {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+}
+
+.img-circle {
+  object-fit: cover;
+  width: 230px;
+  height: 230px;
+}
+
+.title {
+  text-align: center;
+}
+
+.nav {
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0px;
+}
